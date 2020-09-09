@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\API\\staycoolcharcuterie.csproj": {}
+    "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\api\\staycoolcharcuterie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\API\\staycoolcharcuterie.csproj": {
+    "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\api\\staycoolcharcuterie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\API\\staycoolcharcuterie.csproj",
+        "projectUniqueName": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\api\\staycoolcharcuterie.csproj",
         "projectName": "staycoolcharcuterie",
-        "projectPath": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\API\\staycoolcharcuterie.csproj",
+        "projectPath": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\api\\staycoolcharcuterie.csproj",
         "packagesPath": "C:\\Users\\Keith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\API\\obj\\",
+        "outputPath": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Keith\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -35,6 +35,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "sqlite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
