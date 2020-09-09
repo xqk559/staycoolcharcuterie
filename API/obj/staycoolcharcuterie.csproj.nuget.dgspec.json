@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\staycoolcharcuterie.csproj": {}
+    "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\API\\staycoolcharcuterie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\staycoolcharcuterie.csproj": {
+    "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\API\\staycoolcharcuterie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\staycoolcharcuterie.csproj",
+        "projectUniqueName": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\API\\staycoolcharcuterie.csproj",
         "projectName": "staycoolcharcuterie",
-        "projectPath": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\staycoolcharcuterie.csproj",
+        "projectPath": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\API\\staycoolcharcuterie.csproj",
         "packagesPath": "C:\\Users\\Keith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\obj\\",
+        "outputPath": "C:\\Users\\Keith\\Desktop\\ROM\\Development\\staycoolcharcuterie\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Keith\\AppData\\Roaming\\NuGet\\NuGet.Config"
